@@ -1,13 +1,16 @@
+[font]
+size = 13
+
 [font.normal]
-family = "JetBrainsMono NFM"
+family = "JetBrainsMono Nerd Font"
 style = "Mono"
 
 [font.bold]
-family = "JetBrainsMono NF"
+family = "JetBrainsMono Nerd Font"
 style = "Bold"
 
 [font.italic]
-family = "JetBrainsMono NF"
+family = "JetBrainsMono Nerd Font"
 style = "Italic"
 
 [window]
