@@ -1,26 +1,26 @@
 [font]
-size = 13
+size = 6
 
 [font.normal]
-family = "JetBrainsMono Nerd Font"
+family = "Monaspace Neon"
 style = "Mono"
 
 [font.bold]
-family = "JetBrainsMono Nerd Font"
+family = "Monaspace Neon"
 style = "Bold"
 
 [font.italic]
-family = "JetBrainsMono Nerd Font"
+family = "Monaspace Neon"
 style = "Italic"
 
 [window]
-dynamic_padding = false
+dynamic_padding = true
 
 [env]
 TERM = "xterm-256color"
 
 [keyboard]
-bindings= [
+bindings = [
   { key = "Key0", mods = "Control", chars = "\u001b[48;5u" },
   { key = "Key1", mods = "Control", chars = "\u001b[49;5u" },
   { key = "Key2", mods = "Control", chars = "\u001b[50;5u" },
