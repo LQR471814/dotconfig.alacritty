@@ -2,15 +2,15 @@
 size = 6
 
 [font.normal]
-family = "Monaspace Neon"
+family = "JetBrainsMono NF"
 style = "Mono"
 
 [font.bold]
-family = "Monaspace Neon"
+family = "JetBrainsMono NF"
 style = "Bold"
 
 [font.italic]
-family = "Monaspace Neon"
+family = "JetBrainsMono NF"
 style = "Italic"
 
 [window]
